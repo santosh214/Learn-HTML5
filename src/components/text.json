@@ -55,4 +55,11 @@
         "description": "audio tag",
         "route": "audio"
     }
+    ,
+    {
+        "tag": "b",
+        "headings": "The Bring Attention To element",
+        "description": "b tag",
+        "route": "b"
+    }
 ]
