@@ -34,5 +34,11 @@
         "headings": " The Image Map Area element",
         "description": "area tag",
         "route": "area"
+    },
+    {
+        "tag": "article",
+        "headings": "The Article Contents element",
+        "description": "article tag",
+        "route": "article"
     }
 ]
