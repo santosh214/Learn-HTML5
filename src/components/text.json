@@ -48,4 +48,11 @@
         "description": "aside tag",
         "route": "aside"
     }
+    ,
+    {
+        "tag": "audio",
+        "headings": "The Embed Audio element",
+        "description": "audio tag",
+        "route": "audio"
+    }
 ]
