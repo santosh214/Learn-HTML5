@@ -41,4 +41,11 @@
         "description": "article tag",
         "route": "article"
     }
+    ,
+    {
+        "tag": "aside",
+        "headings": "The Aside element",
+        "description": "aside tag",
+        "route": "aside"
+    }
 ]
