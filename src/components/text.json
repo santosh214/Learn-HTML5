@@ -28,5 +28,11 @@
         "headings": "The Embed Java Applet element",
         "description": "applet tag",
         "route": "applet"
+    },
+    {
+        "tag": "area",
+        "headings": " The Image Map Area element",
+        "description": "area tag",
+        "route": "area"
     }
 ]
