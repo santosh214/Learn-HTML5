@@ -61,5 +61,11 @@
         "headings": "The Bring Attention To element",
         "description": "b tag",
         "route": "b"
+    },
+    {
+        "tag": "base",
+        "headings": "The Document Base URL element",
+        "description": "base tag",
+        "route": "base"
     }
 ]
