@@ -16,6 +16,17 @@
         "headings": "The Acronym Element",
         "description": "href tag",
         "route": "acronym"
+    },
+    {
+        "tag": "address",
+        "headings": "The Contact Address element",
+        "description": "address tag",
+        "route": "address"
+    },
+    {
+        "tag": "applet",
+        "headings": "The Embed Java Applet element",
+        "description": "applet tag",
+        "route": "applet"
     }
-    
 ]
