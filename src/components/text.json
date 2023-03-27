@@ -106,19 +106,23 @@
         "headings": "The Document Body element",
         "description": "body tag",
         "route": "body"
-    }
-    ,
+    },
     {
         "tag": "br",
         "headings": "The Line break element",
         "description": "br tag",
         "route": "br"
-    }
-    ,
+    },
     {
         "tag": "button",
         "headings": "The button element",
         "description": "button tag",
         "route": "button"
+    },
+    {
+        "tag": "canvas",
+        "headings": "The Graphics Canvas element",
+        "description": "canvas tag",
+        "route": "canvas"
     }
 ]
