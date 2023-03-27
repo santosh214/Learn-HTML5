@@ -40,22 +40,19 @@
         "headings": "The Article Contents element",
         "description": "article tag",
         "route": "article"
-    }
-    ,
+    },
     {
         "tag": "aside",
         "headings": "The Aside element",
         "description": "aside tag",
         "route": "aside"
-    }
-    ,
+    },
     {
         "tag": "audio",
         "headings": "The Embed Audio element",
         "description": "audio tag",
         "route": "audio"
-    }
-    ,
+    },
     {
         "tag": "b",
         "headings": "The Bring Attention To element",
@@ -97,5 +94,11 @@
         "headings": "The Blinking text element",
         "description": "blink tag",
         "route": "blink"
+    },
+    {
+        "tag": "blockquote",
+        "headings": "The Block Quotation element",
+        "description": "blockquote tag",
+        "route": "blockquote"
     }
 ]
