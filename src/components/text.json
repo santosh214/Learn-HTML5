@@ -107,4 +107,11 @@
         "description": "body tag",
         "route": "body"
     }
+    ,
+    {
+        "tag": "br",
+        "headings": "The Line break element",
+        "description": "br tag",
+        "route": "br"
+    }
 ]
