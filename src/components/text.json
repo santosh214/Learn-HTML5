@@ -85,5 +85,11 @@
         "headings": "The Background Sound element",
         "description": "bgsound tag",
         "route": "bgsound"
+    },
+    {
+        "tag": "big",
+        "headings": "The Bigger text element",
+        "description": "big tag",
+        "route": "big"
     }
 ]
