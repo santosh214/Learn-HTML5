@@ -79,5 +79,11 @@
         "headings": "The Bidirectional Text Override element",
         "description": "bdo tag",
         "route": "bdo"
+    },
+    {
+        "tag": "bgsound",
+        "headings": "The Background Sound element",
+        "description": "bgsound tag",
+        "route": "bgsound"
     }
 ]
