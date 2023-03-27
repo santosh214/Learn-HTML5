@@ -91,5 +91,11 @@
         "headings": "The Bigger text element",
         "description": "big tag",
         "route": "big"
+    },
+    {
+        "tag": "blink",
+        "headings": "The Blinking text element",
+        "description": "blink tag",
+        "route": "blink"
     }
 ]
