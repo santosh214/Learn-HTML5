@@ -114,4 +114,11 @@
         "description": "br tag",
         "route": "br"
     }
+    ,
+    {
+        "tag": "button",
+        "headings": "The button element",
+        "description": "button tag",
+        "route": "button"
+    }
 ]
