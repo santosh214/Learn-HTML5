@@ -100,5 +100,11 @@
         "headings": "The Block Quotation element",
         "description": "blockquote tag",
         "route": "blockquote"
+    },
+    {
+        "tag": "body",
+        "headings": "The Document Body element",
+        "description": "body tag",
+        "route": "body"
     }
 ]
