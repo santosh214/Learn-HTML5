@@ -67,5 +67,17 @@
         "headings": "The Document Base URL element",
         "description": "base tag",
         "route": "base"
+    },
+    {
+        "tag": "bdi",
+        "headings": "The Bidirectional Isolate element",
+        "description": "bdi tag",
+        "route": "bdi"
+    },
+    {
+        "tag": "bdo",
+        "headings": "The Bidirectional Text Override element",
+        "description": "bdo tag",
+        "route": "bdo"
     }
 ]
