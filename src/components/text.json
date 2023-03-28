@@ -115,7 +115,7 @@
     },
     {
         "tag": "button",
-        "headings": "The button element",
+        "headings": "The button element tag",
         "description": "button tag",
         "route": "button"
     },
