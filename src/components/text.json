@@ -125,4 +125,11 @@
         "description": "canvas tag",
         "route": "canvas"
     }
+    ,
+    {
+        "tag": "center",
+        "headings": "The center element",
+        "description": "center tag",
+        "route": "center"
+    }
 ]
