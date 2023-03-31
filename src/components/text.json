@@ -156,5 +156,11 @@
         "headings": "The Table Column group element",
         "description": "colgroup tag",
         "route": "colgroup"
+    },
+    {
+        "tag": "content",
+        "headings": "The Shadow DOM Content Placeholder element",
+        "description": "content tag",
+        "route": "colgroup"
     }
 ]
