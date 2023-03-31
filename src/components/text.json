@@ -150,5 +150,11 @@
         "headings": "The Table Column element",
         "description": "col tag",
         "route": "col"
+    },
+    {
+        "tag": "colgroup",
+        "headings": "The Table Column group element",
+        "description": "colgroup tag",
+        "route": "colgroup"
     }
 ]
