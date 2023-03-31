@@ -162,5 +162,11 @@
         "headings": "The Shadow DOM Content Placeholder element",
         "description": "content tag",
         "route": "colgroup"
+    },
+    {
+        "tag": "data",
+        "headings": "The Data element",
+        "description": "data tag",
+        "route": "data"
     }
 ]
