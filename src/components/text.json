@@ -164,9 +164,9 @@
         "route": "colgroup"
     },
     {
-        "tag": "data",
-        "headings": "The Data element",
-        "description": "data tag",
-        "route": "data"
+        "tag": "datalist",
+        "headings": "The HTML Data List element",
+        "description": "datalist tag",
+        "route": "datalist"
     }
 ]
