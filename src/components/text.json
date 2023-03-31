@@ -138,5 +138,11 @@
         "headings": "The citation element",
         "description": "citation tag",
         "route": "citation"
+    },
+    {
+        "tag": "code",
+        "headings": "The Inline Code element",
+        "description": "code tag",
+        "route": "code tag"
     }
 ]
