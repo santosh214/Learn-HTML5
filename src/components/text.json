@@ -132,4 +132,11 @@
         "description": "center tag",
         "route": "center"
     }
+    ,
+    {
+        "tag": "cite",
+        "headings": "The citation element",
+        "description": "citation tag",
+        "route": "citation"
+    }
 ]
