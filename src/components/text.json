@@ -143,6 +143,12 @@
         "tag": "code",
         "headings": "The Inline Code element",
         "description": "code tag",
-        "route": "code tag"
+        "route": "code"
+    },
+    {
+        "tag": "col",
+        "headings": "The Table Column element",
+        "description": "col tag",
+        "route": "col"
     }
 ]
