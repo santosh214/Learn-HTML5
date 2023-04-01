@@ -183,4 +183,11 @@
         "description": "del tag",
         "route": "del"
     }
+    ,
+    {
+        "tag": "details",
+        "headings": "The Details disclosure element",
+        "description": "details tag",
+        "route": "details"
+    }
 ]
