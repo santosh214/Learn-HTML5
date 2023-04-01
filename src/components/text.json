@@ -176,4 +176,11 @@
         "description": "dd tag",
         "route": "dd"
     }
+    ,
+    {
+        "tag": "del",
+        "headings": "The Deleted Text element",
+        "description": "del tag",
+        "route": "del"
+    }
 ]
