@@ -13,20 +13,7 @@ export default function Home() {
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <div className='container'>
-        <div className='row'>
-          <div className='col'>
-            {element.map((e) => {
-              return (
-                <p>
-                  <Link href={`/HTML/${e.route}`}>{e.tag}</Link>
-                  <br />
-                </p>
-              );
-            })}
-          </div>
-        </div>
-      </div>
+
       {/* old  code reference */}
       {/* <main className={styles.main}>
         <div className={styles.description}>
