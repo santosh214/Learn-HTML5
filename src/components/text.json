@@ -169,4 +169,11 @@
         "description": "datalist tag",
         "route": "datalist"
     }
+    ,
+    {
+        "tag": "dd",
+        "headings": "The Description Details element",
+        "description": "dd tag",
+        "route": "dd"
+    }
 ]
