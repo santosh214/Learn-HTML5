@@ -211,4 +211,11 @@
         "description": "dir tag",
         "route": "dir"
     }
+    ,
+    {
+        "tag": "div",
+        "headings": "The Content Division element",
+        "description": "div tag",
+        "route": "div"
+    }
 ]
