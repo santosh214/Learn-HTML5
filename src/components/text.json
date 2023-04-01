@@ -190,4 +190,11 @@
         "description": "details tag",
         "route": "details"
     }
+    ,
+    {
+        "tag": "dfn",
+        "headings": "The Definition element",
+        "description": "dfn tag",
+        "route": "dfn"
+    }
 ]
