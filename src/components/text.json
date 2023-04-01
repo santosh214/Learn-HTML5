@@ -197,4 +197,11 @@
         "description": "dfn tag",
         "route": "dfn"
     }
+    ,
+    {
+        "tag": "dialog",
+        "headings": "The dialog element",
+        "description": "dialog tag",
+        "route": "dialog"
+    }
 ]
