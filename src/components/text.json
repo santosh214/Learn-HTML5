@@ -204,4 +204,11 @@
         "description": "dialog tag",
         "route": "dialog"
     }
+    ,
+    {
+        "tag": "dir",
+        "headings": "The Directory element",
+        "description": "dir tag",
+        "route": "dir"
+    }
 ]
