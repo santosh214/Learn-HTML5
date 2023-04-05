@@ -231,4 +231,11 @@
         "description": "dt tag",
         "route": "dt"
     }
+    ,
+    {
+        "tag": "em",
+        "headings": "The Emphasis element",
+        "description": "em tag",
+        "route": "em"
+    }
 ]
