@@ -224,4 +224,11 @@
         "description": "dl tag",
         "route": "dl"
     }
+    ,
+    {
+        "tag": "dt",
+        "headings": "The Description Term element",
+        "description": "dt tag",
+        "route": "dt"
+    }
 ]
