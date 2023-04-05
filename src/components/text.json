@@ -261,9 +261,9 @@
     }
     ,
     {
-        "tag": "figcaption",
-        "headings": "The Figure Caption element",
-        "description": "figcaption tag",
-        "route": "figcaption"
+        "tag": "figure",
+        "headings": "The Figure with Optional Caption element",
+        "description": "figure tag",
+        "route": "figure"
     }
 ]
