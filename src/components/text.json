@@ -238,4 +238,18 @@
         "description": "em tag",
         "route": "em"
     }
+    ,
+    {
+        "tag": "em",
+        "headings": "The Emphasis element",
+        "description": "em tag",
+        "route": "em"
+    }
+    ,
+    {
+        "tag": "embed",
+        "headings": "The Embed External Content Element",
+        "description": "embed tag",
+        "route": "embed"
+    }
 ]
