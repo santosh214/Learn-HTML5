@@ -259,4 +259,11 @@
         "description": "fieldset tag",
         "route": "fieldset"
     }
+    ,
+    {
+        "tag": "figcaption",
+        "headings": "The Figure Caption element",
+        "description": "figcaption tag",
+        "route": "figcaption"
+    }
 ]
