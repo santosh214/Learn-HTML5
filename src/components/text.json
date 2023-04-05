@@ -217,5 +217,11 @@
         "headings": "The Content Division element",
         "description": "div tag",
         "route": "div"
+    },
+    {
+        "tag": "dl",
+        "headings": "The Description List element",
+        "description": "dl tag",
+        "route": "dl"
     }
 ]
