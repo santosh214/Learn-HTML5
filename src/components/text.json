@@ -252,4 +252,11 @@
         "description": "embed tag",
         "route": "embed"
     }
+    ,
+    {
+        "tag": "fieldset",
+        "headings": "The Field Set element",
+        "description": "fieldset tag",
+        "route": "fieldset"
+    }
 ]
