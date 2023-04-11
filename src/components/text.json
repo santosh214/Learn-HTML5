@@ -256,48 +256,41 @@
         "headings": "deprecated",
         "description": "font tag",
         "route": "font"
-    }
-    ,
+    },
     {
         "tag": "footer",
         "headings": "The footer element represent footer tag",
         "description": "footer tag",
         "route": "footer"
-    }
-    ,
+    },
     {
         "tag": "form",
         "headings": "The Form element",
         "description": "form tag",
         "route": "form"
-    }
-    ,
+    },
     {
         "tag": "frameset",
         "headings": "The frameset element",
         "description": "frameset tag",
         "route": "frameset"
-    }
-    ,
+    },
     {
         "tag": "<h1><h6>",
         "headings": "The HTML Section Heading elements",
         "description": "h1 tag",
         "route": "h1"
-    }
-    ,
+    },
     {
         "tag": "head",
         "headings": "The Document Metadata (Header) element",
         "description": "head tag",
         "route": "head"
-    }
-    ,
+    },
     {
         "tag": "header",
         "headings": "The header element",
         "description": "header tag",
         "route": "header"
     }
-
 ]
