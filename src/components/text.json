@@ -257,4 +257,11 @@
         "description": "font tag",
         "route": "font"
     }
+    ,
+    {
+        "tag": "footer",
+        "headings": "The footer element represent footer tag",
+        "description": "footer tag",
+        "route": "footer"
+    }
 ]
