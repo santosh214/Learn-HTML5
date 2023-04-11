@@ -124,15 +124,13 @@
         "headings": "The Graphics Canvas element",
         "description": "canvas tag",
         "route": "canvas"
-    }
-    ,
+    },
     {
         "tag": "center",
         "headings": "The center element",
         "description": "center tag",
         "route": "center"
-    }
-    ,
+    },
     {
         "tag": "cite",
         "headings": "The citation element",
@@ -168,50 +166,43 @@
         "headings": "The HTML Data List element",
         "description": "datalist tag",
         "route": "datalist"
-    }
-    ,
+    },
     {
         "tag": "dd",
         "headings": "The Description Details element",
         "description": "dd tag",
         "route": "dd"
-    }
-    ,
+    },
     {
         "tag": "del",
         "headings": "The Deleted Text element",
         "description": "del tag",
         "route": "del"
-    }
-    ,
+    },
     {
         "tag": "details",
         "headings": "The Details disclosure element",
         "description": "details tag",
         "route": "details"
-    }
-    ,
+    },
     {
         "tag": "dfn",
         "headings": "The Definition element",
         "description": "dfn tag",
         "route": "dfn"
-    }
-    ,
+    },
     {
         "tag": "dialog",
         "headings": "The dialog element",
         "description": "dialog tag",
         "route": "dialog"
-    }
-    ,
+    },
     {
         "tag": "dir",
         "headings": "The Directory element",
         "description": "dir tag",
         "route": "dir"
-    }
-    ,
+    },
     {
         "tag": "div",
         "headings": "The Content Division element",
@@ -223,47 +214,47 @@
         "headings": "The Description List element",
         "description": "dl tag",
         "route": "dl"
-    }
-    ,
+    },
     {
         "tag": "dt",
         "headings": "The Description Term element",
         "description": "dt tag",
         "route": "dt"
-    }
-    ,
+    },
     {
         "tag": "em",
         "headings": "The Emphasis element",
         "description": "em tag",
         "route": "em"
-    }
-    ,
+    },
     {
         "tag": "em",
         "headings": "The Emphasis element",
         "description": "em tag",
         "route": "em"
-    }
-    ,
+    },
     {
         "tag": "embed",
         "headings": "The Embed External Content Element",
         "description": "embed tag",
         "route": "embed"
-    }
-    ,
+    },
     {
         "tag": "fieldset",
         "headings": "The Field Set element",
         "description": "fieldset tag",
         "route": "fieldset"
-    }
-    ,
+    },
     {
         "tag": "figure",
         "headings": "The Figure with Optional Caption element",
         "description": "figure tag",
         "route": "figure"
+    },
+    {
+        "tag": "font",
+        "headings": "deprecated",
+        "description": "font tag",
+        "route": "font"
     }
 ]
