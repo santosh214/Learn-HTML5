@@ -273,9 +273,10 @@
     }
     ,
     {
-        "tag": "frame",
-        "headings": "The frame element",
-        "description": "frame tag",
-        "route": "frame"
+        "tag": "frameset",
+        "headings": "The frameset element",
+        "description": "frameset tag",
+        "route": "frameset"
     }
+
 ]
