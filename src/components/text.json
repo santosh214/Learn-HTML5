@@ -264,4 +264,11 @@
         "description": "footer tag",
         "route": "footer"
     }
+    ,
+    {
+        "tag": "form",
+        "headings": "The Form element",
+        "description": "form tag",
+        "route": "form"
+    }
 ]
