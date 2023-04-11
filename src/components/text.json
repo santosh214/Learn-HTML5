@@ -271,4 +271,11 @@
         "description": "form tag",
         "route": "form"
     }
+    ,
+    {
+        "tag": "frame",
+        "headings": "The frame element",
+        "description": "frame tag",
+        "route": "frame"
+    }
 ]
