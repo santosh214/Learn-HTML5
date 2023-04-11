@@ -278,5 +278,12 @@
         "description": "frameset tag",
         "route": "frameset"
     }
+    ,
+    {
+        "tag": "h1",
+        "headings": "The HTML Section Heading elements",
+        "description": "h1 tag",
+        "route": "h1"
+    }
 
 ]
