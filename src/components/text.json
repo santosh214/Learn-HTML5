@@ -280,7 +280,7 @@
     }
     ,
     {
-        "tag": "h1",
+        "tag": "<h1><h6>",
         "headings": "The HTML Section Heading elements",
         "description": "h1 tag",
         "route": "h1"
