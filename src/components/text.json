@@ -292,5 +292,12 @@
         "description": "head tag",
         "route": "head"
     }
+    ,
+    {
+        "tag": "header",
+        "headings": "The header element",
+        "description": "header tag",
+        "route": "header"
+    }
 
 ]
