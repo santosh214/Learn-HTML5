@@ -285,5 +285,12 @@
         "description": "h1 tag",
         "route": "h1"
     }
+    ,
+    {
+        "tag": "head",
+        "headings": "The Document Metadata (Header) element",
+        "description": "head tag",
+        "route": "head"
+    }
 
 ]
