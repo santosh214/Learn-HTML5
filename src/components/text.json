@@ -334,5 +334,17 @@
         "headings": "The img element",
         "description": "The img element",
         "route": "img"
+    },
+    {
+        "tag": "input",
+        "headings": "The input element",
+        "description": "The input element",
+        "route": "input"
+    },
+    {
+        "tag": "ins",
+        "headings": "The ins element",
+        "description": "The ins element",
+        "route": "ins"
     }
 ]
