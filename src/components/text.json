@@ -354,4 +354,11 @@
         "description": "The kbd element",
         "route": "kbd"
     }
+    ,
+    {
+        "tag": "keygen",
+        "headings": "The keygen element",
+        "description": "The keygen element",
+        "route": "keygen"
+    }
 ]
