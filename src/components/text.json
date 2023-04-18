@@ -404,4 +404,11 @@
         "description": "The marquee element",
         "route": "marquee"
     }
+    ,
+    {
+        "tag": "menu",
+        "headings": "The menu  element",
+        "description": "The menu element",
+        "route": "menu"
+    }
 ]
