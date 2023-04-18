@@ -346,26 +346,29 @@
         "headings": "The ins element",
         "description": "The ins element",
         "route": "ins"
-    }
-    ,
+    },
     {
         "tag": "kbd",
         "headings": "The kbd element",
         "description": "The kbd element",
         "route": "kbd"
-    }
-    ,
+    },
     {
         "tag": "keygen",
         "headings": "The keygen element",
         "description": "The keygen element",
         "route": "keygen"
-    }
-    ,
+    },
     {
         "tag": "label",
         "headings": "The label element",
         "description": "The label element",
         "route": "label"
+    },
+    {
+        "tag": "legend",
+        "headings": "The Field Set Legend element",
+        "description": "The legend element",
+        "route": "legend"
     }
 ]
