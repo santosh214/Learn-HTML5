@@ -293,4 +293,11 @@
         "description": "header tag",
         "route": "header"
     }
+    ,
+    {
+        "tag": "hgroup",
+        "headings": "The hgroup element",
+        "description": "hgroup tag",
+        "route": "hgroup"
+    }
 ]
