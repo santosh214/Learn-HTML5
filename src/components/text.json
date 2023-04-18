@@ -436,5 +436,25 @@
         "headings": "The Embed Fallback element",
         "description": "The Embed Fallback element",
         "route": "noembed"
+    },
+    {
+        "tag": "noframes",
+        "headings": "The Frame Fallback element",
+        "description": "The Frame Fallback element",
+        "route": "noframes"
+    }
+    ,
+    {
+        "tag": "noscript",
+        "headings": "The Noscript element",
+        "description": "The Noscript element",
+        "route": "noscript"
+    }
+    ,
+    {
+        "tag": "object",
+        "headings": "The External Object element",
+        "description": "The External Object element",
+        "route": "object"
     }
 ]
