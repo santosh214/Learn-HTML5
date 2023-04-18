@@ -382,40 +382,41 @@
         "headings": "The External Resource Link element",
         "description": "The External Resource Link element",
         "route": "link"
-    }
-    ,
+    },
     {
         "tag": "main",
         "headings": "The main element",
         "description": "The main element",
         "route": "main"
-    }
-    ,
+    },
     {
         "tag": "mark",
         "headings": "The mark Text element",
         "description": "The mark element",
         "route": "mark"
-    }
-    ,
+    },
     {
         "tag": "marquee",
         "headings": "The marquee  element",
         "description": "The marquee element",
         "route": "marquee"
-    }
-    ,
+    },
     {
         "tag": "menu",
         "headings": "The menu  element",
         "description": "The menu element",
         "route": "menu"
-    }
-    ,
+    },
     {
         "tag": "meta",
         "headings": "The metadata  element",
         "description": "The metadata element",
         "route": "meta"
+    },
+    {
+        "tag": "meter",
+        "headings": "The HTML Meter element        ",
+        "description": "The HTML Meter element        ",
+        "route": "meter"
     }
 ]
