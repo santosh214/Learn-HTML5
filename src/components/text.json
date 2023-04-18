@@ -397,4 +397,11 @@
         "description": "The mark element",
         "route": "mark"
     }
+    ,
+    {
+        "tag": "marquee",
+        "headings": "The marquee  element",
+        "description": "The marquee element",
+        "route": "marquee"
+    }
 ]
