@@ -300,4 +300,11 @@
         "description": "hgroup tag",
         "route": "hgroup"
     }
+    ,
+    {
+        "tag": "hr",
+        "headings": "The Thematic Break (Horizontal Rule) element",
+        "description": "The Thematic Break (Horizontal Rule) element",
+        "route": "hr"
+    }
 ]
