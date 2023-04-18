@@ -347,4 +347,11 @@
         "description": "The ins element",
         "route": "ins"
     }
+    ,
+    {
+        "tag": "kbd",
+        "headings": "The kbd element",
+        "description": "The kbd element",
+        "route": "kbd"
+    }
 ]
