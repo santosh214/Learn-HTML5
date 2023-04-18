@@ -371,4 +371,11 @@
         "description": "The legend element",
         "route": "legend"
     }
+    ,
+    {
+        "tag": "li",
+        "headings": "The List Item element",
+        "description": "The List Item element",
+        "route": "li"
+    }
 ]
