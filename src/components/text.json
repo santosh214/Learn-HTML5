@@ -418,12 +418,17 @@
         "headings": "The HTML Meter element        ",
         "description": "The HTML Meter element        ",
         "route": "meter"
-    }
-    ,
+    },
     {
         "tag": "nav",
         "headings": "The Navigation Section element        ",
         "description": "The Navigation Section element        ",
         "route": "nav"
+    },
+    {
+        "tag": "nobr",
+        "headings": "The Non-Breaking Text element",
+        "description": "The Non-Breaking Text element",
+        "route": "nobr"
     }
 ]
