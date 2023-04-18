@@ -310,5 +310,11 @@
         "headings": "The HTML Document / Root element        ",
         "description": "The HTML Document / Root element        ",
         "route": "html"
+    },
+    {
+        "tag": "i",
+        "headings": "The Idiomatic Text element",
+        "description": "The Idiomatic Text element",
+        "route": "i"
     }
 ]
