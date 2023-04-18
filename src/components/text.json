@@ -316,5 +316,11 @@
         "headings": "The Idiomatic Text element",
         "description": "The Idiomatic Text element",
         "route": "i"
+    },
+    {
+        "tag": "iframe",
+        "headings": "The Inline Frame element",
+        "description": "The Inline Frame element",
+        "route": "iframe"
     }
 ]
