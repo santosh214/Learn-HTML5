@@ -361,4 +361,11 @@
         "description": "The keygen element",
         "route": "keygen"
     }
+    ,
+    {
+        "tag": "label",
+        "headings": "The label element",
+        "description": "The label element",
+        "route": "label"
+    }
 ]
