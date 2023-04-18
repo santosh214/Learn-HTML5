@@ -390,4 +390,11 @@
         "description": "The main element",
         "route": "main"
     }
+    ,
+    {
+        "tag": "mark",
+        "headings": "The mark Text element",
+        "description": "The mark element",
+        "route": "mark"
+    }
 ]
