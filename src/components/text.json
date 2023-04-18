@@ -411,4 +411,11 @@
         "description": "The menu element",
         "route": "menu"
     }
+    ,
+    {
+        "tag": "menuitem",
+        "headings": "The menuitem  element",
+        "description": "The menuitem element",
+        "route": "menuitem"
+    }
 ]
