@@ -292,19 +292,23 @@
         "headings": "The header element",
         "description": "header tag",
         "route": "header"
-    }
-    ,
+    },
     {
         "tag": "hgroup",
         "headings": "The hgroup element",
         "description": "hgroup tag",
         "route": "hgroup"
-    }
-    ,
+    },
     {
         "tag": "hr",
         "headings": "The Thematic Break (Horizontal Rule) element",
         "description": "The Thematic Break (Horizontal Rule) element",
         "route": "hr"
+    },
+    {
+        "tag": "html",
+        "headings": "The HTML Document / Root element        ",
+        "description": "The HTML Document / Root element        ",
+        "route": "html"
     }
 ]
