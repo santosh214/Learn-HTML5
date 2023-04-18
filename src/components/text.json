@@ -430,5 +430,11 @@
         "headings": "The Non-Breaking Text element",
         "description": "The Non-Breaking Text element",
         "route": "nobr"
+    },
+    {
+        "tag": "noembed",
+        "headings": "The Embed Fallback element",
+        "description": "The Embed Fallback element",
+        "route": "noembed"
     }
 ]
