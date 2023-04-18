@@ -322,12 +322,17 @@
         "headings": "The Inline Frame element",
         "description": "The Inline Frame element",
         "route": "iframe"
-    }
-    ,
+    },
     {
         "tag": "image",
         "headings": "The Image element",
         "description": "The Image element",
         "route": "image"
+    },
+    {
+        "tag": "img",
+        "headings": "The img element",
+        "description": "The img element",
+        "route": "img"
     }
 ]
