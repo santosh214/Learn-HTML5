@@ -503,6 +503,12 @@
         "headings": "The picture element",
         "description": "The picture element",
         "route": "picture"
+    },
+    {
+        "tag": "plaintext",
+        "headings": "The plaintext element",
+        "description": "The plaintext element",
+        "route": "plaintext"
     }
 
 ]
