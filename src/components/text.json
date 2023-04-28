@@ -485,4 +485,11 @@
         "description": "The HTML output element",
         "route": "output"
     }
+    ,
+    {
+        "tag": "p",
+        "headings": "The Paragraph element",
+        "description": "The Paragraph element",
+        "route": "p"
+    }
 ]
