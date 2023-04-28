@@ -515,6 +515,12 @@
         "headings": "The portal element",
         "description": "The portal element",
         "route": "portal"
+    },
+    {
+        "tag": "pre",
+        "headings": "The pre element",
+        "description": "The pre element",
+        "route": "pre"
     }
 
 ]
