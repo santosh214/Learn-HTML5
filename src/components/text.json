@@ -464,4 +464,11 @@
         "description": "The Ordered list element",
         "route": "ol"
     }
+    ,
+    {
+        "tag": "optgroup",
+        "headings": "The Option Group element",
+        "description": "The Option Group element",
+        "route": "optgroup"
+    }
 ]
