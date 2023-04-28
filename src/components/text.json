@@ -509,6 +509,12 @@
         "headings": "The plaintext element",
         "description": "The plaintext element",
         "route": "plaintext"
+    },
+    {
+        "tag": "portal",
+        "headings": "The portal element",
+        "description": "The portal element",
+        "route": "portal"
     }
 
 ]
