@@ -471,4 +471,11 @@
         "description": "The Option Group element",
         "route": "optgroup"
     }
+    ,
+    {
+        "tag": "option",
+        "headings": "The HTML Option element",
+        "description": "The HTML Option element",
+        "route": "option"
+    }
 ]
