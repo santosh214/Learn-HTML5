@@ -521,6 +521,12 @@
         "headings": "The pre element",
         "description": "The pre element",
         "route": "pre"
+    },
+    {
+        "tag": "progress",
+        "headings": "The progress element",
+        "description": "The progress element",
+        "route": "progress"
     }
 
 ]
