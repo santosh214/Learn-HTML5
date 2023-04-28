@@ -478,4 +478,11 @@
         "description": "The HTML Option element",
         "route": "option"
     }
+    ,
+    {
+        "tag": "output",
+        "headings": "The HTML output element",
+        "description": "The HTML output element",
+        "route": "output"
+    }
 ]
