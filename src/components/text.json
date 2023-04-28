@@ -457,4 +457,11 @@
         "description": "The External Object element",
         "route": "object"
     }
+    ,
+    {
+        "tag": "ol",
+        "headings": "The Ordered list element",
+        "description": "The Ordered list element",
+        "route": "ol"
+    }
 ]
