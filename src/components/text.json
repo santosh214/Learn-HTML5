@@ -497,5 +497,12 @@
         "headings": "The Object Parameter element",
         "description": "The Object Parameter element",
         "route": "param"
+    },
+    {
+        "tag": "picture",
+        "headings": "The picture element",
+        "description": "The picture element",
+        "route": "picture"
     }
+
 ]
