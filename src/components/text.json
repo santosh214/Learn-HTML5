@@ -491,5 +491,11 @@
         "headings": "The Paragraph element",
         "description": "The Paragraph element",
         "route": "p"
+    },
+    {
+        "tag": "param",
+        "headings": "The Object Parameter element",
+        "description": "The Object Parameter element",
+        "route": "param"
     }
 ]
