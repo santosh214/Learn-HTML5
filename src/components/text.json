@@ -556,5 +556,11 @@
         "headings": "The Ruby Annotation element",
         "description": "The Ruby Annotation element",
         "route": "ruby"
+    },
+    {
+        "tag": "s",
+        "headings": "The Strikethrough element",
+        "description": "The Strikethrough element",
+        "route": "s"
     }
 ]
