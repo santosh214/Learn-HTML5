@@ -586,5 +586,11 @@
         "headings": "The html Select element",
         "description": "The html Select element",
         "route": "select"
+    },
+    {
+        "tag": "slot",
+        "headings": "The Web Component Slot  element",
+        "description": "The Web Component Slot  element",
+        "route": "slot"
     }
 ]
