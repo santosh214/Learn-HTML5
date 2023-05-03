@@ -547,8 +547,14 @@
     },
     {
         "tag": "rtc",
-        "headings": "The Ruby Text Container element",
-        "description": "The Ruby Text  Container element",
+        "headings": "The Ruby Annotation element",
+        "description": "The Ruby Annotation element",
         "route": "rtc"
+    },
+    {
+        "tag": "ruby",
+        "headings": "The Ruby Annotation element",
+        "description": "The Ruby Annotation element",
+        "route": "ruby"
     }
 ]
