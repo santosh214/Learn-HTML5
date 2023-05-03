@@ -539,6 +539,12 @@
         "headings": "The Ruby Base element",
         "description": "The Ruby Base element",
         "route": "rb"
+    },
+    {
+        "tag": "rp",
+        "headings": "The Ruby Fallback Parenthesis element",
+        "description": "The Ruby Fallback Parenthesis element",
+        "route": "rp"
     }
 
 ]
