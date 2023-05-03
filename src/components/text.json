@@ -527,6 +527,12 @@
         "headings": "The progress element",
         "description": "The progress element",
         "route": "progress"
+    },
+    {
+        "tag": "q",
+        "headings": "The Inline Quotation element",
+        "description": "The Inline Quotation element",
+        "route": "q"
     }
 
 ]
