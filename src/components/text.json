@@ -442,50 +442,43 @@
         "headings": "The Frame Fallback element",
         "description": "The Frame Fallback element",
         "route": "noframes"
-    }
-    ,
+    },
     {
         "tag": "noscript",
         "headings": "The Noscript element",
         "description": "The Noscript element",
         "route": "noscript"
-    }
-    ,
+    },
     {
         "tag": "object",
         "headings": "The External Object element",
         "description": "The External Object element",
         "route": "object"
-    }
-    ,
+    },
     {
         "tag": "ol",
         "headings": "The Ordered list element",
         "description": "The Ordered list element",
         "route": "ol"
-    }
-    ,
+    },
     {
         "tag": "optgroup",
         "headings": "The Option Group element",
         "description": "The Option Group element",
         "route": "optgroup"
-    }
-    ,
+    },
     {
         "tag": "option",
         "headings": "The HTML Option element",
         "description": "The HTML Option element",
         "route": "option"
-    }
-    ,
+    },
     {
         "tag": "output",
         "headings": "The HTML output element",
         "description": "The HTML output element",
         "route": "output"
-    }
-    ,
+    },
     {
         "tag": "p",
         "headings": "The Paragraph element",
@@ -545,6 +538,11 @@
         "headings": "The Ruby Fallback Parenthesis element",
         "description": "The Ruby Fallback Parenthesis element",
         "route": "rp"
+    },
+    {
+        "tag": "rt",
+        "headings": "The Ruby Text element",
+        "description": "The Ruby Text element",
+        "route": "rt"
     }
-
 ]
