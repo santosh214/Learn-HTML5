@@ -574,5 +574,11 @@
         "headings": "The Script element",
         "description": "The Script element",
         "route": "script"
+    },
+    {
+        "tag": "section",
+        "headings": "The Generic Section element",
+        "description": "The Generic Section element",
+        "route": "section"
     }
 ]
