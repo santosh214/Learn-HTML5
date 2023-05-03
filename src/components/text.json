@@ -562,5 +562,11 @@
         "headings": "The Strikethrough element",
         "description": "The Strikethrough element",
         "route": "s"
+    },
+    {
+        "tag": "samp",
+        "headings": "The Sample Output element",
+        "description": "The Sample Output element",
+        "route": "samp"
     }
 ]
