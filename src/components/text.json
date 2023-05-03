@@ -568,5 +568,11 @@
         "headings": "The Sample Output element",
         "description": "The Sample Output element",
         "route": "samp"
+    },
+    {
+        "tag": "script",
+        "headings": "The Script element",
+        "description": "The Script element",
+        "route": "script"
     }
 ]
