@@ -580,5 +580,11 @@
         "headings": "The Generic Section element",
         "description": "The Generic Section element",
         "route": "section"
+    },
+    {
+        "tag": "select",
+        "headings": "The html Select element",
+        "description": "The html Select element",
+        "route": "select"
     }
 ]
