@@ -544,5 +544,11 @@
         "headings": "The Ruby Text element",
         "description": "The Ruby Text element",
         "route": "rt"
+    },
+    {
+        "tag": "rtc",
+        "headings": "The Ruby Text Container element",
+        "description": "The Ruby Text  Container element",
+        "route": "rtc"
     }
 ]
