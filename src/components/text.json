@@ -533,6 +533,12 @@
         "headings": "The Inline Quotation element",
         "description": "The Inline Quotation element",
         "route": "q"
+    },
+    {
+        "tag": "rb",
+        "headings": "The Ruby Base element",
+        "description": "The Ruby Base element",
+        "route": "rb"
     }
 
 ]
