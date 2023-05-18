@@ -619,4 +619,11 @@
         "description": "The Content span element",
         "route": "span"
     }
+    ,
+    {
+        "tag": "strike",
+        "headings": "The  strike element",
+        "description": "The strike element",
+        "route": "strike"
+    }
 ]
