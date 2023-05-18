@@ -654,5 +654,11 @@
         "description": " The Disclosure Summary element",
         "route": "summary"
     }
-    
+    ,
+    {
+        "tag": "sup",
+        "headings": " The Superscript element",
+        "description": " The Superscript element",
+        "route": "sup"
+    }
 ]
