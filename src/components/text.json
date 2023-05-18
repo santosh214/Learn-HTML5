@@ -598,5 +598,11 @@
         "headings": "The side comment element",
         "description": "The side comment element",
         "route": "small"
+    },
+    {
+        "tag": "source",
+        "headings": "The Media or Image Source element",
+        "description": "The Media or Image Source element",
+        "route": "source"
     }
 ]
