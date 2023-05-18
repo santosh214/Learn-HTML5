@@ -626,4 +626,11 @@
         "description": "The strike element",
         "route": "strike"
     }
+    ,
+    {
+        "tag": "strong",
+        "headings": "The  Strong Importance element",
+        "description": "The Strong Importance element",
+        "route": "strong"
+    }
 ]
