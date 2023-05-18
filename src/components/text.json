@@ -592,5 +592,11 @@
         "headings": "The Web Component Slot  element",
         "description": "The Web Component Slot  element",
         "route": "slot"
+    },
+    {
+        "tag": "small",
+        "headings": "The side comment element",
+        "description": "The side comment element",
+        "route": "small"
     }
 ]
