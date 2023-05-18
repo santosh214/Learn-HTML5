@@ -633,4 +633,19 @@
         "description": "The Strong Importance element",
         "route": "strong"
     }
+    ,
+    {
+        "tag": "style",
+        "headings": " The Style Information element",
+        "description": " The Style Information element",
+        "route": "style"
+    }
+    ,
+    {
+        "tag": "sub",
+        "headings": " The Subscript element",
+        "description": " The Subscript element",
+        "route": "sub"
+    }
+    
 ]
