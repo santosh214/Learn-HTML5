@@ -612,4 +612,11 @@
         "description": "The spacer element",
         "route": "spacer"
     }
+    ,
+    {
+        "tag": "span",
+        "headings": "The Content span element",
+        "description": "The Content span element",
+        "route": "span"
+    }
 ]
