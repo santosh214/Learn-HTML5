@@ -647,5 +647,12 @@
         "description": " The Subscript element",
         "route": "sub"
     }
+    ,
+    {
+        "tag": "summary",
+        "headings": " The Disclosure Summary element",
+        "description": " The Disclosure Summary element",
+        "route": "summary"
+    }
     
 ]
