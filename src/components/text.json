@@ -605,4 +605,11 @@
         "description": "The Media or Image Source element",
         "route": "source"
     }
+    ,
+    {
+        "tag": "spacer",
+        "headings": "The spacer element",
+        "description": "The spacer element",
+        "route": "spacer"
+    }
 ]
