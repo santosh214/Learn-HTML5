@@ -661,4 +661,11 @@
         "description": " The Superscript element",
         "route": "sup"
     }
+    ,
+    {
+        "tag": "sup",
+        "headings": " The Superscript element",
+        "description": " The Superscript element",
+        "route": "sup"
+    }
 ]
