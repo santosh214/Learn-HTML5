@@ -695,5 +695,12 @@
         "description": " The Textarea element",
         "route": "textarea"
     }
+    ,
+    {
+        "tag": "tfoot",
+        "headings": " The Table Foot element",
+        "description": " The Table Foot element",
+        "route": "tfoot"
+    }
 
 ]
