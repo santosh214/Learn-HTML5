@@ -661,17 +661,12 @@
         "description": " The Superscript element",
         "route": "sup"
     }
-    ,
+     ,
     {
-        "tag": "sup",
-        "headings": " The Superscript element",
-        "description": " The Superscript element",
-        "route": "sup"
-    },
-    {
-        "tag": "sup",
-        "headings": " The Superscript element",
-        "description": " The Superscript element",
-        "route": "sup"
+        "tag": "Table",
+        "headings": " The Table element",
+        "description": " The Table element",
+        "route": "Table"
     }
+
 ]
