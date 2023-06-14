@@ -688,5 +688,12 @@
         "description": " The Content Template element",
         "route": "template"
     }
+    ,
+    {
+        "tag": "textarea",
+        "headings": " The Textarea element",
+        "description": " The Textarea element",
+        "route": "textarea"
+    }
 
 ]
