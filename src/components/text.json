@@ -702,5 +702,11 @@
         "description": " The Table Foot element",
         "route": "tfoot"
     }
-
+    ,
+    {
+        "tag": "th",
+        "headings": " The Table Header element",
+        "description": " The Table Header element",
+        "route": "th"
+    }
 ]
