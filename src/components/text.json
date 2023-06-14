@@ -681,5 +681,12 @@
         "description": " The Table Data Cell element",
         "route": "td"
     }
+    ,
+    {
+        "tag": "template",
+        "headings": " The Content Template element",
+        "description": " The Content Template element",
+        "route": "template"
+    }
 
 ]
