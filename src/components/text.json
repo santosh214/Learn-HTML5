@@ -674,5 +674,12 @@
         "description": " The Table body element",
         "route": "tbody"
     }
+    ,
+    {
+        "tag": "td",
+        "headings": " The Table Data Cell element",
+        "description": " The Table Data Cell element",
+        "route": "td"
+    }
 
 ]
