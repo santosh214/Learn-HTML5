@@ -709,4 +709,11 @@
         "description": " The Table Header element",
         "route": "th"
     }
+    ,
+    {
+        "tag": "thead",
+        "headings": " The Table Head element",
+        "description": " The Table Head element",
+        "route": "thead"
+    }
 ]
