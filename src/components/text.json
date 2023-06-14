@@ -667,6 +667,12 @@
         "headings": " The Table element",
         "description": " The Table element",
         "route": "Table"
+    },
+    {
+        "tag": "tbody",
+        "headings": " The Table body element",
+        "description": " The Table body element",
+        "route": "tbody"
     }
 
 ]
